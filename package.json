@@ -1,0 +1,19 @@
+{
+  "name": "3js",
+  "version": "1.0.0",
+  "description": "earth viz",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "author": "rf",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.6"
+  }
+  
+}
